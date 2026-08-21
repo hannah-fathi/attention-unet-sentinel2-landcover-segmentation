@@ -2,7 +2,6 @@
 
 ## Author
 **Hannah Fathi**  
-MSc Artificial Intelligence  
 
 ## Research Timeline
 Spring 2025  
