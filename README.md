@@ -2,7 +2,7 @@
 
 ## Author
 
-**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research 
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
 
 ## Research Timeline
 Spring 2025  
