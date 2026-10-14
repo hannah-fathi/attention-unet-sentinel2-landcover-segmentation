@@ -1,7 +1,8 @@
 # Attention U-Net for Sentinel-2 Agricultural Land Cover Segmentation
 
 ## Author
-**Hannah Fathi**  
+
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research 
 
 ## Research Timeline
 Spring 2025  
